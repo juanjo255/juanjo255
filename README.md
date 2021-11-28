@@ -1,11 +1,10 @@
 # Hi i'm Juan José 👋
 
-### i'm a FullStack web developer and bioinformatician in training.
+### i'm a web developer looking for FullStack power, and a bioinformatician in training.
 <br>
 
 ### 🧰 Technologies & Tools:
  ![](https://img.shields.io/badge/Tool-Linux-white?style=plastic&logo=Linux&labelColor=black)
- ![](https://img.shields.io/badge/Shell-Bash-gray?style=plastic&logo=shell&labelColor=black)
  ![](https://img.shields.io/badge/Tool-Docker-blue?style=plastic&logo=Docker&labelColor=black)
  <br>
  ![](https://img.shields.io/badge/Code-Python-yellow?style=plastic&logo=Python&logoColor=blue&labelColor=black)
@@ -21,5 +20,7 @@
 
 ### 📊 GitHub Stats:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjo255&theme=radical" />
+[![Juan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjo255&layout=compact)](https://github.com/juanjo255/github-readme-stats)
+
+
 
