@@ -3,7 +3,7 @@
 ### i'm a FullStack web developer and bioinformatician in training.
 
 ### 🧰 Technologies & Tools:
-<i https://img.shields.io/badge/code-python-yellow?style=plastic&logo=appveyor />
+ ![](https://img.shields.io/badge/code-python-yellow?style=plastic&logo=appveyor)
 
 ### 📊 GitHub Stats:
 
