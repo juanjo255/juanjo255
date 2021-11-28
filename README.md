@@ -9,10 +9,11 @@
  ![](https://img.shields.io/badge/Tool-npm-red?style=plastic&logo=npm&labelColor=black)
  <br>
  ![](https://img.shields.io/badge/Code-Python-yellow?style=plastic&logo=Python&logoColor=blue&labelColor=black)
+ ![](https://img.shields.io/badge/Code-R-blue?style=plastic&logo=R&logoColor=blue&labelColor=black)
  ![](https://img.shields.io/badge/Code-JavaScript-brightgreen?style=plastic&logo=JavaScript&labelColor=black)
  ![](https://img.shields.io/badge/Code-React-blue?style=plastic&logo=React&labelColor=black)
  ![](https://img.shields.io/badge/Code-HTML-red?style=plastic&logo=HTML5&labelColor=black)
- ![](https://img.shields.io/badge/Style-CSS-blue?style=plastic&logo=CSS3&labelColor=black)
+ ![](https://img.shields.io/badge/Style-CSS-blue?style=plastic&logo=CSS3&logoColor=blue&labelColor=black)
  ![](https://img.shields.io/badge/Framework-Tailwindcss-blue?style=plastic&logo=Tailwindcss&labelColor=black)
 
 
