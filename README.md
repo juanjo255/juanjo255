@@ -3,12 +3,11 @@
 ### i'm a FullStack web developer and bioinformatician in training.
 
 ### 🧰 Technologies & Tools:
-
+https://img.shields.io/badge/code-python-yellow?style=plastic&logo=appveyor
 
 ### 📊 GitHub Stats:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjo255&theme=radical" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juanjo255&theme=radical" />
 
 <!--
 **juanjo255/juanjo255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
