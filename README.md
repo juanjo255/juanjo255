@@ -1,6 +1,9 @@
 # Hi i'm Juan José 👋
 
-### i'm a bioinformatic and FullStack web developer 
+### i'm a FullStack web developer and bioinformatician in training.
+
+### 🧰 Tools:
+
 
 <!--
 **juanjo255/juanjo255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
