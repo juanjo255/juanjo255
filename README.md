@@ -3,7 +3,11 @@
 ### i'm a FullStack web developer and bioinformatician in training.
 
 ### 🧰 Technologies & Tools:
- ![](https://img.shields.io/badge/code-python-yellow?style=plastic&logo=appveyor)
+ ![](https://img.shields.io/badge/Code-Python-yellow?style=plastic&logo=Python&logoColor=blue&labelColor=black)
+ ![](https://img.shields.io/badge/Code-JavaScript-brightgreen?style=plastic&logo=JavaScript&labelColor=black)
+ ![](https://img.shields.io/badge/Code-Java-red?style=plastic&logo=Java&labelColor=black)
+ ![](https://img.shields.io/badge/Library-React-blue?style=plastic&logo=React&labelColor=black)
+
 
 ### 📊 GitHub Stats:
 
