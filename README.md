@@ -6,6 +6,7 @@
 ### 🧰 Technologies & Tools:
  ![](https://img.shields.io/badge/Tool-Linux-white?style=plastic&logo=Linux&labelColor=black)
  ![](https://img.shields.io/badge/Tool-Docker-blue?style=plastic&logo=Docker&labelColor=black)
+ ![](https://img.shields.io/badge/Tool-npm-red?style=plastic&logo=npm&labelColor=black)
  <br>
  ![](https://img.shields.io/badge/Code-Python-yellow?style=plastic&logo=Python&logoColor=blue&labelColor=black)
  ![](https://img.shields.io/badge/Code-JavaScript-brightgreen?style=plastic&logo=JavaScript&labelColor=black)
