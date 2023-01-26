@@ -8,7 +8,7 @@
 ----
 ### 🧰 Tools:
 > + 🧑🏻‍💻 Programming lenguages
->> ![](https://img.shields.io/badge/Code-Python-yellow?style=plastic&logo=Python&logoColor=blue&labelColor=black)
+>> ![](https://img.shields.io/badge/Code-Python-yellow?style=plastic&logo=Python&logoColor=yellow&labelColor=black)
 ![](https://img.shields.io/badge/Code-Rust-orange?style=plastic&logo=Rust&logoColor=orange&labelColor=black)
 ![](https://img.shields.io/badge/Code-R-blue?style=plastic&logo=R&logoColor=blue&labelColor=black)
 > + 🛠️ Other tools
