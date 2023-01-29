@@ -5,6 +5,7 @@
 ### 🧐 Interests:
 > + Machine learning 🤖
 > + Back-End 💾
+> + Genomics & Epigenomics 🧬
 ----
 ### 🧰 Tools:
 > + 🧑🏻‍💻 Programming lenguages
