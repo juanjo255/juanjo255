@@ -1,6 +1,6 @@
 # Hi, I'm Juan José 👋
 
-### I'm a Bioinformatician in training. Developing as a Pythonista and a Rustacean.
+### I'm a Bioinformatician in training. Developing as a Pythonista and Rustacean.
 
 ### 🧐 Interests:
 > + Machine learning 🤖
