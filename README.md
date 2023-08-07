@@ -17,9 +17,6 @@
  ![](https://img.shields.io/badge/Tool-Docker-blue?style=plastic&logo=Docker&labelColor=black)
  ![](https://img.shields.io/badge/Code-HTML-red?style=plastic&logo=HTML5&labelColor=black)
 ----
-### 📊 GitHub Stats:
-
-[![Juan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjo255&layout=compact)](https://github.com/juanjo255/github-readme-stats)
 
 
 
