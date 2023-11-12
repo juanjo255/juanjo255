@@ -3,9 +3,9 @@
 ### I'm a Bioinformatician in training. Developing as a Pythonista and Rustacean.
 
 ### 🧐 Interests:
+> + Genomics & Epigenomics 🧬
 > + Machine learning 🤖
 > + Back-End 💾
-> + Genomics & Epigenomics 🧬
 ----
 ### 🧰 Tools:
 > + 🧑🏻‍💻 Programming lenguages
